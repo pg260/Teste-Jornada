@@ -1,4 +1,4 @@
-const cacheName = "Sicredi-Jornada sicredi-0.4.5";
+const cacheName = "Sicredi-Jornada sicredi-0.5.0";
 const contentToCache = [
     "Build/Teste-Jornada.loader.js",
     "Build/Teste-Jornada.framework.js",
