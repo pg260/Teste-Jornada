@@ -1,8 +1,8 @@
-const cacheName = "Sicredi-Conectado-1.4.5";
+const cacheName = "Sicredi-Conectado-1.4.6";
 const contentToCache = [
     "Build/5cdbb3f587dd0672e67451014782113a.loader.js",
     "Build/d811a3da2a44a315bbe32ed1d133ce4a.framework.js",
-    "Build/fbbb43c845c9c9fa727ef1aa949f53b6.data",
+    "Build/debc7f3809d8ca9284c44a5715a6fe0a.data",
     "Build/e6e687b7618b6da1c6112b1dfe80581f.wasm",
     "TemplateData/style.css"
 ];
